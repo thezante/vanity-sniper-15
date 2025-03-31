@@ -1,7 +1,6 @@
 # vanity-sniper-15
 main.goyu ve index.jsyi dolduruyorsun 
 mfa.bati calistiriyosun mfa alindi diyince run.bati calistiriyorsun
-
 hayirli olsun 
 
 calistiramazsan undefe6ted
