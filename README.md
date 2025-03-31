@@ -3,4 +3,4 @@
 
 
 
-![Repo Views](https://komarev.com/ghpvc/?username=thezante&repo=vanity-sniper-15&color=blue)
+![](https://komarev.com/ghpvc/?username=thezante&repo=vanity-sniper-15&color=red)
