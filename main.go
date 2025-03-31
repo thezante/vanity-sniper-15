@@ -105,7 +105,6 @@ func saveMFAToken(token string) error {
 
 func main() {
 	log.SetFlags(0)
-	log.Println("bir lannister asla borclu kalmaz")
 
 	client := &http.Client{
 		Transport: &http.Transport{
@@ -122,7 +121,7 @@ func main() {
 			if err := saveMFAToken(mfaToken); err != nil {
 				log.Println("Error saving MFA token:", err)
 			} else {
-				log.Println("mfa kaydedildi artik run.bat acabilirsin")
+				log.Println("mfa alindi")
 			}
 		}
 
